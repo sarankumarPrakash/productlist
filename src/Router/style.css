@@ -1,0 +1,21 @@
+#multi-select{
+    width: 36%;
+    margin-left: 6%;
+}
+#second{
+    display: flex;
+}
+#searchbar{
+    margin-left: 5%;
+}
+#home-content{
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-evenly;
+}
+#button{
+    border: 1px solid blue;
+    color: orange;
+    background-color: midnightblue;
+    border-radius: 5px;
+}

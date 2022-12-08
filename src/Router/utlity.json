@@ -1,0 +1,23 @@
+[
+    {
+    "productName":"laptop",
+    "productCode":"Lwnps4567",
+    "ProductCatagery":"laptop,harddisk",
+    "productImage":"https://upcdn.io/W142hJk/raw/demo/4moajvopDy.png",
+    "productDecp":""
+},
+{
+    "productName":"harddisk",
+    "productCode":"Lwnps4567",
+    "ProductCatagery":"harddisk",
+    "productImage":"https://upcdn.io/W142hJk/raw/demo/4moajvopDy.png",
+    "productDecp":"qwertyusdfghjcvbn"
+},
+{
+    "productName":"laptop",
+    "productCode":"Lwnps4567",
+    "ProductCatagery":"hardisk",
+    "productImage":"https://upcdn.io/W142hJk/raw/demo/4moajvopDy.png",
+    "productDecp":""
+}
+]
